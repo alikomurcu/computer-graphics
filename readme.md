@@ -1,1 +1,1 @@
-Refer [blogpost](https://medium.com/@alikomurcu32430/) for details of projects.
+Refer [my blog](https://medium.com/@alikomurcu/) for details of projects.

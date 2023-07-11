@@ -1,1 +1,0 @@
-Refer [blogpost](https://medium.com/@alikomurcu32430/computer-graphics-ii-hw-1-66bd337f37f5) for this project.

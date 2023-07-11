@@ -1,0 +1,5 @@
+.idea
+*cmake*/
+*.txt
+with_depth_buffer/
+inputs_outputs/
